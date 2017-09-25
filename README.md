@@ -6,7 +6,7 @@ O projeto se trata de uma loja de compra e aluguel de vestidos.
 
 Perguntas:
 
-1) Qual o funcionario que mais recebeu comissão 
+1) Qual o funcionario que mais recebeu comissão? 
 
 2) Qual o vestido mais vendido em 2015?
 
